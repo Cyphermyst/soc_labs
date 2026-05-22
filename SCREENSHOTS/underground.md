@@ -1,5 +1,21 @@
 UNDERGROUND HACKER ZINES AND RESOURCES 
+
+
 // This stuff is goldmine to me and it means the world to me in my hacking journey
+
+
+The culture:
+what it has always been
+```
+Curiosity
+→ terminal experimentation
+→ weird books
+→ underground zines
+→ late-night obsession
+→ self-built projects
+→ technical depth
+
+```
 ---
 
 # 🧠 ZINES / UNDERGROUND PUBLICATIONS
