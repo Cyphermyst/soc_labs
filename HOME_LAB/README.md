@@ -24,7 +24,6 @@ and also:
  A lightweight Linux system for practicing server security.
 
 - Windows 10:
-
  Most companies use Windows systems, so practicing Windows security monitoring is essential.
 
 
