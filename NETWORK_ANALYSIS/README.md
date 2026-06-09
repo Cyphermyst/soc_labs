@@ -25,7 +25,7 @@ The project is key to learning:
 
 # exercises 
 
-In the project download a packet capture from
+In the project i download a packet capture from
 the Malware Traffic Analysis website. 
 Write a complete investigation report answering:
 
