@@ -209,23 +209,23 @@ Books give you a guide not the actual current threats but a pattern of what has 
 ```
 
 // PRINCIPLES TO LIVE BY 
-
-## **Accountability Mirror** 🪞
+```sh
+-  Accountability Mirror 🪞
 Have goals to achieve micro-goals from the major ones
-## Cookie jar 🍪🍯
+-  Cookie jar 🍪🍯
 A collection of all your achievements in the goals above 
-## 40 % rule 🔖📏
+-  40 % rule 🔖📏
 During goal execution just know you are only at 40 % of your capabilities 
-## Callous your mind 🧠
+-  Callous your mind 🧠
 Make yourself not depend on anything external,just raw execution 
 The desert run dictates you can do it -- no music or headphones  push limits // test yiur soul
 That's where the lessons are.
-## Self Talk 💭🗣️
+-  Self Talk 💭🗣️
 Positive talk and telling yourself you can.Be positive with your life.Also instead of those imaginative dudes solve problems for you
-## Visualization 👁️💭
+-  Visualization 👁️💭
 Write down what you visualize
 
 // *c115 Buffalo*  #ExOwnProtocol
-
+```
 
 
