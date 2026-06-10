@@ -225,7 +225,7 @@ Positive talk and telling yourself you can.Be positive with your life.Also inste
 ## Visualization 👁️💭
 Write down what you visualize
 
-// *c115 Buffalo* 
+// *c115 Buffalo*  #ExOwnProtocol
 
 
 
